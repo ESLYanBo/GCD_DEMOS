@@ -7,7 +7,7 @@
 
 ![](https://ws3.sinaimg.cn/large/006tNc79gy1fpae9mawdwj30720fb74i.jpg)
 
-[博客地址](http://dongxuwei.com/2018/03/12/GCD/),欢迎各路大神批评指正。
+[联系方式]QQ：8513036,欢迎各路大神批评指正。
 
 ## 基础概念
   
